@@ -1,9 +1,9 @@
 @echo off
-title IPTOOLKIT
+title Tez.Puller
 mode 75, 30
 chcp 65001 >nul
 call powershell exit >nul
-color A
+color 0
 cd files
 :menu
 set ip=""
