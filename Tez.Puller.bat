@@ -74,16 +74,16 @@ cls
 echo.
 echo 1) TERRORIZE
 echo 2) HOMEHOLD
-echo 3) REGULAR CD
+echo 3) REGULAR DDOS
 echo 4) DYNAMIC REACHER
-echo 5) STRESSER
+echo 5) PROXY KILLER
 echo 6) Back
 echo.
 set /p ddosinput=
-if /I "%ddosinput%" EQU "1" start https://freestresser.so/
-if /I "%ddosinput%" EQU "2" start https://hardstresser.com/
+if /I "%ddosinput%" EQU "1" start https://stresser.net/
+if /I "%ddosinput%" EQU "2" start https://stresser.net/
 if /I "%ddosinput%" EQU "3" start https://stresser.net/
-if /I "%ddosinput%" EQU "4" start https://str3ssed.co/
+if /I "%ddosinput%" EQU "4" start https://projectdeltastress.com/
 if /I "%ddosinput%" EQU "5" start https://projectdeltastress.com/
 if /I "%ddosinput%" EQU "6" goto menu
 goto menu
