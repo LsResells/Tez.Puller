@@ -72,11 +72,11 @@ goto menu
 :ddos
 cls
 echo.
-echo 1) https://freestresser.so/
-echo 2) https://hardstresser.com/
-echo 3) https://stresser.net/
-echo 4) https://str3ssed.co/
-echo 5) https://projectdeltastress.com/
+echo 1) TERRORIZE
+echo 2) HOMEHOLD
+echo 3) REGULAR CD
+echo 4) DYNAMIC REACHER
+echo 5) STRESSER
 echo 6) Back
 echo.
 set /p ddosinput=
